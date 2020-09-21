@@ -1,0 +1,30 @@
+.ydropdown {
+    text-align: center;
+    width:50%;
+    left:25%;
+    margin-top: 10px;
+}
+
+.xdropdown {
+    text-align: center;
+    width:50%;
+    left:25%;
+    margin-top: 5px;
+}
+
+.plot-select {
+    text-align: center;
+    width:100%;
+    margin-top: 5px;
+    color: #28D0B4
+}
+
+.info-panel{
+    color:#28D0B4
+}
+
+.link-name {
+    text-align: center;
+    width:100%;
+    color: #28D0B4;
+}
